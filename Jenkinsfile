@@ -4,7 +4,7 @@ node {
     }
 
     stage('Build') {
-        echo 'building application'
+        echo 'building application for webhook'
     }
 
     stage('Test') {
