@@ -1,6 +1,6 @@
 node {
     stage('Hello from GitHub') {
-        echo 'Hello from GitHub'
+        echo 'Hello from GitHub for testing'
     }
 
     stage('Build') {
